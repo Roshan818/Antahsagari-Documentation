@@ -131,4 +131,26 @@ Trained Mask R-CNN using custom dataset having three classes. We used pretrained
 - Trying different pretained models and learning its architecture.
 - For detection and segmentation purpose, working on Faster R-CNN, CenterNet and learning features, architecture and techniques required enough to create custom Neural Network for project. 
 - Working on Image Enhancement Algorithms using Neural Networks and Computer Vision.
+
+
+### Image Filters
+- RGHS: Shallow-Water Image Enhancement Using Relative Global Histogram Stretching Based on Adaptive Parameter Acquisition 
+- RayleighDistribution: Underwater image quality enhancement through composition of dual-intensity images and Rayleigh-stretching 
+- UCM: Enhancing the low quality images using Unsupervised Colour Correction Method 
+- HE: Image enhancement by histogram transformation 
+- GC: Gamma Correction
+
+These Underwater Image Enhancement Techniques were giving the best results.
+
+#### Results
+- The images enhanced by HE method present an overwhelming red tone and amplify the noises of the original image.
+- RGHS are based on adaptive parameters to avoid a global histogram stretching or blind pixel redistribution to reduce sharpness.
+- UCM may lead to under- and over-saturated images.
+- Rayleigh Distribution veils local detailed information of the enhanced images.
+
+These methods implemented on differents images shows different results.
+<img src="Image_filters_result/Image1.png" >
+<img src="Image_filters_result/Image2.png" >
+<img src="Image_filters_result/Image4.png" >
+
    
