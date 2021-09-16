@@ -10,7 +10,7 @@ Antahsagri traces its origin to June 2019 when a group of students from varied e
 
 ## [**Click_Here**](https://www.youtube.com/watch?v=LpOH96YZ9nc) **to watch the demonstration video.**
 
-<a href="url"><img src="https://scontent.fixr1-1.fna.fbcdn.net/v/t1.0-0/p180x540/87168843_1406226076246389_6672358876907569152_o.jpg?_nc_cat=101&_nc_sid=110474&_nc_ohc=IAyL5wX5IqkAX9X6gN0&_nc_ht=scontent.fixr1-1.fna&_nc_tp=6&oh=833e10a8637677822bc62130d7015098&oe=5F320F34" align="right" height="250" width="450" ></a>
+<!-- <a href="url"><img src="https://scontent.fixr1-1.fna.fbcdn.net/v/t1.0-0/p180x540/87168843_1406226076246389_6672358876907569152_o.jpg?_nc_cat=101&_nc_sid=110474&_nc_ohc=IAyL5wX5IqkAX9X6gN0&_nc_ht=scontent.fixr1-1.fna&_nc_tp=6&oh=833e10a8637677822bc62130d7015098&oe=5F320F34" align="right" height="250" width="450" ></a> -->
 
 ## AIM:
 
